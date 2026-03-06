@@ -3,21 +3,26 @@
 @theme inline {
   --font-sans: "Geist", "Geist Fallback";
   --font-mono: "Geist Mono", "Geist Mono Fallback";
-  --color-background: hsl(0 0% 100%);
-  --color-foreground: hsl(222.2 84% 4.9%);
-  --color-primary: hsl(221.2 83.2% 53.3%);
-  --color-primary-foreground: hsl(210 40% 98%);
-  --color-secondary: hsl(210 40% 96.1%);
-  --color-secondary-foreground: hsl(222.2 47.4% 11.2%);
-  --color-muted: hsl(210 40% 96.1%);
-  --color-muted-foreground: hsl(215.4 16.3% 46.9%);
-  --color-accent: hsl(210 40% 96.1%);
-  --color-accent-foreground: hsl(222.2 47.4% 11.2%);
-  --color-destructive: hsl(0 84.2% 60.2%);
-  --color-destructive-foreground: hsl(210 40% 98%);
-  --color-border: hsl(214.3 31.8% 91.4%);
-  --color-input: hsl(214.3 31.8% 91.4%);
-  --color-ring: hsl(221.2 83.2% 53.3%);
+  /* Terracotta Theme */
+  --color-background: hsl(30 25% 97%);
+  --color-foreground: hsl(20 15% 15%);
+  --color-primary: hsl(16 65% 50%);
+  --color-primary-foreground: hsl(30 30% 98%);
+  --color-secondary: hsl(30 20% 92%);
+  --color-secondary-foreground: hsl(20 15% 20%);
+  --color-muted: hsl(30 15% 93%);
+  --color-muted-foreground: hsl(20 10% 45%);
+  --color-accent: hsl(24 60% 55%);
+  --color-accent-foreground: hsl(30 30% 98%);
+  --color-destructive: hsl(0 72% 51%);
+  --color-destructive-foreground: hsl(0 0% 100%);
+  --color-border: hsl(30 15% 85%);
+  --color-input: hsl(30 15% 85%);
+  --color-ring: hsl(16 65% 50%);
+  --color-card: hsl(0 0% 100%);
+  --color-card-foreground: hsl(20 15% 15%);
+  --color-success: hsl(142 71% 45%);
+  --color-success-foreground: hsl(0 0% 100%);
   --radius: 0.5rem;
 }
 
